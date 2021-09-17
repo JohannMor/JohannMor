@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @JohannMor
+- 👋 Hi, I’m @Johann
 - 👀 I’m interested in Excel, Power Bi, DAX & MySQL
 - 🌱 I’m currently learning DAX & MySQL
-- 💞️ I’m looking to collaborate on Data Analysis
+- 💞️ I’m looking to collaborate on Data Analytics
 - 📫 How to reach me Email: morgenj@outlook.com
 
 <!---
